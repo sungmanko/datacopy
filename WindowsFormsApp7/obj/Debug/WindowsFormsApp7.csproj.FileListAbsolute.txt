@@ -1,0 +1,10 @@
+C:\Users\rc902698\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\rc902698\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\rc902698\source\repos\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\rc902698\source\repos\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
